@@ -1,0 +1,25 @@
+{
+  "name": "abc-sheetmusic",
+  "version": "1.0.0",
+  "description": "Tool for converting sheet music to abc notation and vice versa",
+  "main": "test.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evamb/abc-sheetmusic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evamb/abc-sheetmusic/issues"
+  },
+  "homepage": "https://github.com/evamb/abc-sheetmusic#readme",
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "typescript": "^5.1.3"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es2021",                        
+    "lib": ["es2021"],
+    "module": "ESNext",
+    "rootDir": "src",
+    "moduleResolution": "nodenext",
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "outDir": "build",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "skipLibCheck": true
+  }
+}
